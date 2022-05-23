@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uaiv
 - 👀 I create iOS apps using Swift PL
 - 🌱 I’m currently looking for my first commercial experience
-- 📫 You can reach me via e-mail i.a.zakharchenko@gmail.com
+- 📫 You can reach me via e-mail uaiv@icloud.com
 
 <!---
 uaiv/uaiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
